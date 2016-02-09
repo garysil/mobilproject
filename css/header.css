@@ -1,0 +1,95 @@
+/* 
+    Created on : 14-Jan-2016, 21:36:13
+    Author     : Szilágyi
+*/
+@import url(https://fonts.googleapis.com/css?family=Open+Sans:400,300);
+@import url(https://fonts.googleapis.com/css?family=Oxygen:400,300);
+@import url(https://fonts.googleapis.com/css?family=Tangerine:400,700);
+@import url(https://fonts.googleapis.com/css?family=Josefin+Sans:400italic&subset=latin,latin-ext);
+@import url(https://fonts.googleapis.com/css?family=Source+Sans+Pro:400,300,200,600,700,900&subset=latin,latin-ext);
+*, *:after, *:before {
+    box-sizing: border-box;
+
+}
+.container:before,
+.container:after,
+.group:before,
+.group:after {
+    content: " ";
+    display: block;
+}
+.container:after,
+.group:after{
+    clear: both;
+}
+.contrainer,
+.group{
+    *zoom:1 ;
+}
+
+/*--------------HEADER--------------*/
+.header{
+    width: 1000px;
+    margin: auto;
+    margin-top: 20px;
+    height: 200px;
+    background-color: white; 
+    -webkit-box-shadow: -1px 1px 21px 5px rgba(173,173,173,1);
+    -moz-box-shadow: -1px 1px 21px 5px rgba(173,173,173,1);
+    box-shadow: -1px 1px 21px 5px rgba(173,173,173,1);
+}
+
+.image{
+    display: inline-block;
+    vertical-align: middle;
+    float: left;
+    margin-left: 25px;
+    margin-top: 25px;
+}
+
+.motto{
+    height: 50px;
+    margin: auto;
+    margin-top: 30px;
+    text-align: center;
+    display: inline-block;
+    width: 800px;
+    color: white;
+    font-family: Tangerine;
+    font-size: 48px;
+}
+
+.buttons{
+    height: 50px;
+    margin: auto;
+    margin-top: 149px;
+    text-align: center;
+    display: inline-block;
+    width: 675px;
+    float: right;
+    color: #373737;
+    font-family: Oxygen;
+    font-size: 24px;
+}
+
+.cat{
+    display: inline-block;
+    padding: 10px;
+    width: 123px;
+    text-decoration: none;
+}
+
+.cat:link{
+    color: #373737;
+}
+
+.cat:visited{
+    color: #373737;
+}
+
+.cat:hover{
+    background-color: #373737;
+    color: white;
+    cursor: pointer;
+    cursor: hand;
+}
