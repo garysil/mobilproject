@@ -67,9 +67,9 @@
     display: inline-block;
     width: 675px;
     float: right;
-    color: #373737;
+    color: #212737;
     font-family: Oxygen;
-    font-size: 24px;
+    font-size: 22px;
 }
 
 .cat{
@@ -80,15 +80,15 @@
 }
 
 .cat:link{
-    color: #373737;
+    color: #212737;
 }
 
 .cat:visited{
-    color: #373737;
+    color: #212737;
 }
 
 .cat:hover{
-    background-color: #373737;
+    background-color: #212737;
     color: white;
     cursor: pointer;
     cursor: hand;
