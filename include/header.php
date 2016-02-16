@@ -1,14 +1,14 @@
 <header class="header">
+    <div class="containerbg"></div>
+    <div class="containerbgcolor"></div>
     <div class="container">
-<a href="index.php">
-        <img class="image" src="img/incaselogo.png" alt="Vital Fitness" width="300px" height="150px" /></a>
-        
-        <div class="buttons">
-            <a class="cat" href="index.php">HOME</a>
-            <a class="cat" href="training.php">TRAINING</a>
-            <a class="cat" href="bmi.php">BMI</a>
-            <a class="cat" href="faq.php">FAQ</a>
-            <a class="cat" href="about.php">ABOUT</a>
-        </div>
+        <img id="kosicetext" src="img/kosicetext2.png" alt="Kosice Text Logo">
+        <div class="nav">
+            <a href="index.php" class="buttons">Home</a>
+            <a href="gallery.php" class="buttons">Gallery</a>
+            <a href="map.php" class="buttons">Map</a>
+            <a href="quiz.php" class="buttons">Quiz</a>
+            <a href="about.php" class="buttons">About</a>
+        </div>    
     </div>
 </header>

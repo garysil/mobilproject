@@ -29,20 +29,21 @@
 
 /*--------------FOOTER--------------*/
 .footer{
-    width: 1000px;
+    width: 100%;
+    max-width: 1920px;
     margin: auto;
     height: 50px;
-    background-color: #212737; 
-    -webkit-box-shadow: -1px 8px 21px 5px rgba(173,173,173,1);
-    -moz-box-shadow: -1px 8px 21px 5px rgba(173,173,173,1);
-    box-shadow: -1px 8px 21px 5px rgba(173,173,173,1);
+    background-color: #6795c9; 
+    
 }
 
 .containerfooter{
-    width: 900px;
+    width: 90%;
+    max-width: 1920px;
     margin: auto;
     height: 50px;
     color: white;
+    text-align: center;
     line-height: 50px;
     font-family: Oxygen;
 }

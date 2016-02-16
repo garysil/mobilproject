@@ -27,148 +27,23 @@
     *zoom:1 ;
 }
 
+
 /*--------------MAIN--------------*/
 body{
-    background-image: url("../img/mobilebg.png"); 
+    width: 100%;
+    margin: auto;
+    min-width: 1366px;
+    background-color: white;
 }
 
 .mainpart{
+    
     background-color: white;
     margin: auto;
-    
+    z-index: 2;
     width: 1000px;
-    height: 50%;
-}
-
-.slide{
-    margin-top: 0px;
-}
-
-.intro{
-    font-family: 'Open Sans', sans-serif;
-    font-weight: 200;
-    font-size: 20px;
-    margin: 20px;
-    width: 649px;
-    text-align: justify;
-    display: inline-block;
-}
-
-.profilepic{
-    overflow: hidden;
-    width: 267px;
-    height: 400px;
-    display: inline-block;
-    
-    vertical-align: top;
-    margin: 20px;
-    -moz-box-shadow: 1px 2px 3px rgba(0,0,0,.5);
-    -webkit-box-shadow: 1px 2px 3px rgba(0,0,0,.5);
-    box-shadow: 1px 2px 10px rgba(0,0,0,.5);
-}
-
-#author{
-    
-}
-
-/*--------------TRAINING--------------*/
-
-h1{
-    font-family: 'Open Sans', sans-serif;
-    font-weight: 700;
-    font-size: 32px;
-    padding-top: 20px;
-    margin-bottom: 0px;
-    text-align: center;
-    
-}
-
-h2{
-    font-family: 'Open Sans', sans-serif;
-    font-weight: 700;
-    font-size: 24px;
-    text-align: left;
-    margin-left: 120px;
-    margin-right: 120px;
-    margin-top: 20px;
-    margin-bottom: 0px;
-    padding-left: 10px;
-    padding-right: 10px;
-    width: 760px;
-    background-color: #1976D2; 
-    color: white;
-}
-.text{
-    font-family: 'Open Sans', sans-serif;
-    font-weight: 200;
-    font-size: 20px;
-    padding-top: 20px;
-    width: 70%;
-    margin: auto;
-    text-align: justify;
-    display: block;
-}
-
-/*--------------BMI--------------*/
-
-table {
-    border-collapse: collapse;
-    width: 400px;
-    margin: auto;
-    font-family: 'Open Sans', sans-serif;
-}
-
-table, tr, td {
-    border: 1px solid #1976D2; 
-}
-
-td {
-    padding-left: 15px;
-}
-
-tr:first-child{
-    text-align: center;
-    background-color: #1976D2;
-    color: white;
-}
-
-.bmiform{
-    display: block;
-    width: 295px;
     margin: auto;
     margin-top: 20px;
-    padding: 5px;
-    margin-bottom: 20px;
-    font-family: 'Open Sans', sans-serif;
-    font-weight: 200;
-    font-size: 20px;
-    
-}
-.myButton {
-	background-color:#1975d2;
-	-moz-border-radius:5px;
-	-webkit-border-radius:5px;
-	border-radius:5px;
-	display:inline-block;
-	cursor:pointer;
-	color:#ffffff;
-	font-family: 'Open Sans', sans-serif;
-        font-weight: 200;
-	font-size:20px;
-	padding:1px 16px;
-	text-decoration:none;
-        margin: 5px;
-}
-.myButton:hover {
-	background-color:#327ab5;
-}
-.myButton:active {
-	position:relative;
-	top:1px;
+    height: 100%;
 }
 
-svg{
-    vertical-align: bottom;
-    
-}
-li {list-style-type: none;}
