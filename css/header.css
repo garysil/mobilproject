@@ -32,6 +32,10 @@
     src: url("../fonts/motion.ttf") format("truetype");
 }
 
+@font-face {
+    font-family: "Raleway";
+    src: url("../fonts/Raleway-Light.ttf") format("truetype");
+}
 /*--------------HEADER--------------*/
 
 .header{
@@ -101,7 +105,7 @@
 #kosicetext{
     width: 320px;
     margin-left: 3%;
-    margin-right: 300px;
+    margin-right: 400px;
     vertical-align: middle;
 }
 
@@ -119,6 +123,9 @@
 .nav a{
     text-decoration: none;
     color: white;
+    text-shadow: 1px 1px 1px rgba(0,0,0,0.004);
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
 }
 
 .buttons{
@@ -127,8 +134,8 @@
     height: 160px;
     line-height: 160px;
     width: 18%;
-    font-size: 40px;
-    font-family: 'Motion', sans-serif;
+    font-size: 32px;
+    font-family: 'Raleway', sans-serif;
     text-align: center;
     display: inline-block;
     vertical-align: middle;
@@ -139,4 +146,10 @@
     border-bottom-style: solid;
     cursor: pointer;
     text-shadow: 0px 0px 10px #6795c9;
+}
+
+@media screen and (max-width: 1530px) {
+    #kosicetext{
+        margin-right: 300px;
+    }
 }
