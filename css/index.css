@@ -41,9 +41,14 @@ body{
     background-color: white;
     margin: auto;
     z-index: 2;
-    width: 1000px;
+    width: 1280px;
     margin: auto;
     margin-top: 20px;
     height: 100%;
+    margin-bottom: 20px;
+}
+
+#kosicemap{
+    border: 1px solid #595959;
 }
 

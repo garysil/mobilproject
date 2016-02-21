@@ -17,7 +17,7 @@
 <body>
     <?php include('include/header.php'); ?>
     <main class="mainpart">
-       
+        <img id="kosicemap" src="img/kosice map/kosice map template.png" width="1280px">
     </main>
     <?php include('include/footer.php'); ?>
 </body>
