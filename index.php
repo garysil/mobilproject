@@ -5,8 +5,7 @@
 <html>
 
 <head>
-    <meta charset="utf-8">
-	<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+    <meta http-equiv="Content-Type" content="text/html;charset=windows-1250"/>
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <title>Kosice</title>
     <meta name="viewport" content="width = device-width, initial-scale = 1">
@@ -19,22 +18,78 @@
     
     <?php include('include/header.php'); ?>
     <main class="mainpart">
-    <div class="introfirst">
-		Welcome to our site about Kosice. As the second biggest city in Slovakia , 
-		it has a population of a quarter million people. In many ways it is the centre 
-		of Eastern Slovakia. It has a very rich cultural life, it hosts many cultural 
-		events. In 2013 the city was a European Capital of Culture. Kosice has also a 
-		very active sports side. It has a successful handball and hockey team. 
-	</div>
-	<div class="introsecond">
-		Why did we create this page? As we didn¬¥t find an interesting website about our 
-		city, we decided to create one ourselves. We wanted people from the whole world 
-		to be acquainted with Kosice. We want to inform people, who don¬¥t know where to 
-		go through the Holidays, to consider visiting our city. We also a provide a playful 
-		quiz game about the history and points of interests of the city. Besides that we 
-		handpicked the pictures that give you an insight to the city¬¥s life and style. 
-		We hope you¬¥ll like our take on Kosice and you will visit it in the future.
-	</div>
+        <div>
+                    Welcome to our site about Koöice. As the second biggest city in Slovakia, 
+                    it has a population of a quarter million people. In many ways it is the centre 
+                    of Eastern Slovakia. It has a very rich cultural life, it hosts many cultural 
+                    events. In 2013 the city was a European Capital of Culture. Koöice has also an 
+                    active sports side. It owns a very successful handball and hockey team. 
+        </div>
+        <img id="kosicemain" src="img/kosicemainstreet.jpg" alt="Kosice Main Street" width="100%">
+        <div>
+                    Why did we create this page? As we didn¥t find an interesting website about our 
+                    city, we decided to create one ourselves. We wanted people from the whole world 
+                    to be acquainted with Koöice. We want to inform people, who don¥t know where to 
+                    go through the Holidays, to consider visiting our city. We also a provide a playful 
+                    quiz game about the history and points of interests of the city. Besides that we 
+                    handpicked the pictures that give you an insight to the city¥s life and style. 
+                    We hope you¥ll like our take on Koöice and you will visit it in the future.
+        </div>
+        <h1>Info</h1>
+        <div>
+            Being the economic and cultural centre of eastern Slovakia, Koöice 
+            is the seat of the Koöice Region and Koöice Self-governing Region, 
+            the Slovak Constitutional Court, three universities, various dioceses, 
+            and many museums, galleries, and theatres. Koöice is an important 
+            industrial centre of Slovakia, and the U.S. Steel Koöice steel mill 
+            is the largest employer in the city. The town has extensive railway 
+            connections and an international airport.
+        </div>
+        <img id="kosiceerb" src="img/kosice erb.jpg" alt="Kosice Erb">
+        <div>
+            The city has a well-preserved historical 
+            centre, which is the largest among Slovak towns. 
+            There are many heritage protected buildings in Gothic,
+            Renaissance, Baroque, and Art Nouveau styles with 
+            Slovakia's largest church: the St. Elisabeth Cathedral. 
+            The long main street, rimmed with aristocratic palaces, 
+            Catholic churches, and townsfolk's houses, is a thriving 
+            pedestrian zone with many boutiques, cafÈs, and restaurants. 
+            The city is well known as the first settlement in Europe 
+            to be granted its own coat-of-arms.
+        </div>
+        <h1>Administrative division of Koöice</h1>
+        <table>
+            <tr>
+                <td>District</td>
+                <td>Boroughs</td>
+            </tr>
+            <tr>
+                <td>Koöice I</td>
+                <td>Dûungæa, KaveËany, Sever, SÌdlisko çahanovce, StarÈ Mesto, çahanovce</td>
+            </tr>
+            <tr>
+                <td>Koöice II</td>
+                <td>LorinËÌk, LunÌk IX, Myslava, Pereö, Poæov, SÌdlisko KVP, äaca, Z·pad</td>
+            </tr>
+            <tr>
+                <td>Koöice III</td>
+                <td>SÌdlisko dargovsk˝ch hrdinov, Koöick· Nov· Ves</td>
+            </tr>
+            <tr>
+                <td>Koöice IV</td>
+                <td>Barca, Juh, Kr·sna, Nad jazerom, äebastovce, VyönÈ Op·tske</td>
+            </tr>
+        </table>
+        <h1>Transport</h1>
+        <div>Public Transport in Koöice is managed by 
+            Dopravn˝ podnik mesta Koöice (literally the Public Transport 
+            Company of the city of Koöice). You can check it
+            out <a id="dpmklink" href="http://www.dpmk.sk">here.</a>
+            This company has also an app for android mobile phones, that provides
+            offline data for those who use our public transport. 
+            You can download it <a id="dpmklink" href="https://play.google.com/store/apps/details?id=com.backbone&hl=en">here.</a>
+        </div>
     </main>
     <?php include('include/footer.php'); ?>
 </body>

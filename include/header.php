@@ -8,7 +8,7 @@
             <a href="gallery.php" class="buttons">Gallery</a>
             <a href="map.php" class="buttons">Map</a>
             <a href="quiz.php" class="buttons">Quiz</a>
-            <a href="about.php" class="buttons">About</a>
+            <a href="events.php" class="buttons">Events</a>
         </div>    
     </div>
 </header>
