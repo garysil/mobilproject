@@ -25,15 +25,15 @@
             </tr>
             <tr>
                 <td>8.10.2015-3.4.2016</td>
-                <td>Eastern Slovak Museum - a memorial exhibit</td>
+                <td><a href="http://www.visitkosice.eu/sk/podujatia/vystavy/coze-je-to-sestdesiatka-">Eastern Slovak Museum - a memorial exhibit</a></td>
             </tr>
             <tr>
                 <td>8.10.2015-3.4.2016</td>
-                <td>Eastern Slovak Museum - Exhibition of Minerals</td>
+                <td><a href="http://www.visitkosice.eu/sk/podujatia/vystavy/mineraly-pod-lupou">Eastern Slovak Museum - Exhibition of Minerals</a></td>
             </tr>
 			<tr>
-                <td>17.9.2015-13.4.2016</td>
-                <td>HOUSE OF CRAFTS - exhibition coming towards history tailors and traders of textiles in Kosice</td>
+                <td>17.9.2015-13.3.2016</td>
+                <td><a href="http://www.visitkosice.eu/sk/podujatia/vystavy/od-ihly-po-sijaci-stroj">HOUSE OF CRAFTS - exhibition coming towards history tailors and traders of textiles in Kosice</a></td>
             </tr>
 			<tr>
                 <td>22.10.2015-28.2.2016</td>
@@ -85,7 +85,7 @@
             </tr>
 			<tr>
                 <td>11.2.2016</td>
-                <td>JAHODNA - sport event for all športuchtivých elderly seniors Winter Olympics</td>
+                <td>JAHODNA - sport event for all sports elderly seniors Winter Olympics</td>
             </tr>
 			<tr>
                 <td>12.2.2016,26.2.2016,18.3.2016</td>
@@ -101,7 +101,7 @@
             </tr>
             <tr>
                 <td>25.2.2016</td>
-                <td>CITADELY WINE & ART GALLERY - Wine tasting Romana Janoušeka</td>
+                <td>CITADELY WINE & ART GALLERY - Wine tasting Romana Janouseka</td>
             </tr>
             <tr>
                 <td>27.2. - 28.2.2016</td>
@@ -133,7 +133,7 @@
             </tr>
 			<tr>
                 <td>29.4. - 8.5.2016</td>
-                <td>Festival Celebration of Day of Košice</td>
+                <td>Festival Celebration of Day of Kosice</td>
             </tr>
 			            <tr>
                 <td>30.4.2016</td>
@@ -165,11 +165,11 @@
             </tr>
 			<tr>
                 <td>10. - 12.6.2016</td>
-                <td>City Park - Festival food Košice Gourmet Fest</td>
+                <td>City Park - Festival food Kosice Gourmet Fest</td>
             </tr>
 			<tr>
                 <td>16. - 18.6.2016</td>
-                <td>CITY PARK - Multižánrový festival Imaginácie</td>
+                <td>CITY PARK - Multi-genre festival of Imagination</td>
             </tr>
 			<tr>
                 <td>17. - 25.6.2016</td>

@@ -32,7 +32,7 @@
 		<img id="DSC_1340" src="img/buildings/12/DSC_1340.JPG" alt="Steel Arena" width="50%">
 		<img id="DSC_1343" src="img/buildings/13/DSC_1343.JPG" alt="Miklusova väznica" width="50%">
 		<img id="DSC_1344" src="img/buildings/14/DSC_1344.JPG" alt="Jacabs palace" width="50%">
-		<img id="DSC_1301" src="img/buildings/15/DSC_1301.JPG" alt="Vyhliadkova veza" width="50%">
+		<img id="DSC_1301" src="img/buildings/15/DSC_1350.JPG" alt="Vyhliadkova veza" width="50%">
     </main>
     <?php include('include/footer.php'); ?>
 </body>
