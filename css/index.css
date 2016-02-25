@@ -204,3 +204,25 @@ table tr:first-child{
     padding-right: 5px;
     cursor: pointer;
 }
+
+.galleryPics{
+	width:100%;
+	display: inline-block;
+	margin: 0px;
+	margin-bottom: 0px !important;
+}
+
+.imgContainer{
+	width:317px;
+	height:210px;
+	background-color: #6A8DC6;
+	display: inline-block;
+	overflow: hidden; 
+	margin: 0px;
+	margin-bottom: 0px !important;
+}
+
+.galleryPics:hover{
+	opacity: 0.5;
+	cursor: pointer;
+}

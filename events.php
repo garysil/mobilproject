@@ -209,7 +209,7 @@
             </tr>
 			<tr>
                 <td>September 2016</td>
-                <td>?a href="http://www.visitkosice.eu/sk/podujatia/top-podujatia-2016/kosice-pivofest">CAMELOT, Košice - Košice Beer Festival</a></td>
+                <td><a href="http://www.visitkosice.eu/sk/podujatia/top-podujatia-2016/kosice-pivofest">CAMELOT, Košice - Košice Beer Festival</a></td>
             </tr>
 			<tr>
                 <td>September 2016</td>
