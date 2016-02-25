@@ -40,6 +40,20 @@
 	<div class="galleryCol">
 	 <ul class="enlarge">
 		<li><div class="imgContainer"><img src="img/buildings/1/1.JPG" alt="" /><span><img src="img/buildings/1/1.JPG" alt="" /></li>
+		<li><div class="imgContainer"><img src="img/buildings/2/1.JPG" alt="" /><span><img src="img/buildings/2/1.JPG" alt="" /></li>
+		<li><div class="imgContainer"><img src="img/buildings/3/1.JPG" alt="" /><span><img src="img/buildings/3/1.JPG" alt="" /></li>
+		<li><div class="imgContainer"><img src="img/buildings/4/1.JPG" alt="" /><span><img src="img/buildings/4/1.JPG" alt="" /></li>
+		<li><div class="imgContainer"><img src="img/buildings/5/1.JPG" alt="" /><span><img src="img/buildings/5/1.JPG" alt="" /></li>
+		<li><div class="imgContainer"><img src="img/buildings/6/1.JPG" alt="" /><span><img src="img/buildings/6/1.JPG" alt="" /></li>
+		<li><div class="imgContainer"><img src="img/buildings/7/1.JPG" alt="" /><span><img src="img/buildings/7/1.JPG" alt="" /></li>
+		<li><div class="imgContainer"><img src="img/buildings/8/1.JPG" alt="" /><span><img src="img/buildings/8/1.JPG" alt="" /></li>
+		<li><div class="imgContainer"><img src="img/buildings/9/1.JPG" alt="" /><span><img src="img/buildings/9/1.JPG" alt="" /></li>
+		<li><div class="imgContainer"><img src="img/buildings/10/1.JPG" alt="" /><span><img src="img/buildings/10/1.JPG" alt="" /></li>
+		<li><div class="imgContainer"><img src="img/buildings/11/1.JPG" alt="" /><span><img src="img/buildings/11/1.JPG" alt="" /></li>
+		<li><div class="imgContainer"><img src="img/buildings/12/1.JPG" alt="" /><span><img src="img/buildings/12/1.JPG" alt="" /></li>
+		<li><div class="imgContainer"><img src="img/buildings/13/1.JPG" alt="" /><span><img src="img/buildings/13/1.JPG" alt="" /></li>
+		<li><div class="imgContainer"><img src="img/buildings/14/1.JPG" alt="" /><span><img src="img/buildings/14/1.JPG" alt="" /></li>
+		<li><div class="imgContainer"><img src="img/buildings/15/1.JPG" alt="" /><span><img src="img/buildings/15/1.JPG" alt="" /></li>
 		
 	</ul>
 	</main>
@@ -48,6 +62,4 @@
 </body>
 
 </html>
-
-
 	
