@@ -12,10 +12,11 @@
     <link rel="stylesheet" href="css/index.css">
     <link rel="stylesheet" href="css/header.css">
     <link rel="stylesheet" href="css/footer.css">
-    
+    <link rel="stylesheet" href="css/popup.css">
 </head>
 
 <body>
+
     <?php include('include/header.php'); ?>
     <main class="mainpart">
 	<div class="galleryCol">
@@ -35,8 +36,18 @@
 		<div class="imgContainer"><img class="galleryPics" src="img/buildings/14/1.JPG" alt="Jakab´s Palace"></div>
 		<div class="imgContainer"><img class="galleryPics" src="img/buildings/15/1.JPG" alt="Watchtower"></div>
     </div>
+	
+	<div class="galleryCol">
+	 <ul class="enlarge">
+		<li><div class="imgContainer"><img src="img/buildings/1/1.JPG" alt="" /><span><img src="img/buildings/1/1.JPG" alt="" /></li>
+		
+	</ul>
 	</main>
     <?php include('include/footer.php'); ?>
+	
 </body>
 
 </html>
+
+
+	
