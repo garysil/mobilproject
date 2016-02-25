@@ -206,10 +206,16 @@
 </body>
 <script>
     function visInfo(name) {
+        var i=1;
         var popup = document.getElementById('div'+name);
         var vision = window.getComputedStyle(popup,null).getPropertyValue("visibility");
-        if (vision==="hidden") 
+        if (vision==="hidden"){
+            for (i=1;i<16;i++){
+                document.getElementById('div'+i).style.visibility= "hidden";
+            }
             popup.style.visibility= "visible";
+        }
+           
         else popup.style.visibility= "hidden";
     }
     
