@@ -104,7 +104,102 @@
                 </div>
                 <div class="footerPop"></div>
             </div>
+			
+			<img class="dotOnMap" src="img/dotmap.png" style="top: 394px; left: 364px" onclick="visInfo('8')">
+            <div id="div8" class="infoOnMap" style="margin-top: 123px; margin-left: 364px">
+                <div class="infoPop">
+                    Dominican church
+                    <div class="closePop" onclick="closeInfo('8')">X</div>
+                </div>
+                <div class="mainPop">
+                    <img src="img/buildings/8/1.jpg" style="max-width: 290px"> 
+                </div>
+                <div class="footerPop"></div>
+            </div>
+			
+			<img class="dotOnMap" src="img/dotmap.png" style="top: 413px; left: 613px" onclick="visInfo('9')">
+            <div id="div9" class="infoOnMap" style="margin-top: 223px; margin-left: 613px">
+                <div class="infoPop">
+                    Synagogue on Puškinova street
+                    <div class="closePop" onclick="closeInfo('9')">X</div>
+                </div>
+                <div class="mainPop">
+                    <img src="img/buildings/9/1.jpg" style="max-width: 290px"> 
+                </div>
+                <div class="footerPop"></div>
+            </div>
             
+			<img class="dotOnMap" src="img/dotmap.png" style="top: 584px; left: 351px" onclick="visInfo('10')">
+            <div id="div10" class="infoOnMap" style="margin-top: 423px; margin-left: 351px">
+                <div class="infoPop">
+                    Neological synagogue
+                    <div class="closePop" onclick="closeInfo('10')">X</div>
+                </div>
+                <div class="mainPop">
+                    <img src="img/buildings/10/1.jpg" style="max-width: 290px"> 
+                </div>
+                <div class="footerPop"></div>
+            </div>
+			
+			<img class="dotOnMap" src="img/dotmap.png" style="top: 587px; left: 328px" onclick="visInfo('11')">
+            <div id="div11" class="infoOnMap" style="margin-top: 423px; margin-left: 328px">
+                <div class="infoPop">
+                    Košice State Philharmonic
+                    <div class="closePop" onclick="closeInfo('11')">X</div>
+                </div>
+                <div class="mainPop">
+                    <img src="img/buildings/11/1.jpg" style="max-width: 290px"> 
+                </div>
+                <div class="footerPop"></div>
+            </div>
+			
+			<img class="dotOnMap" src="img/dotmap.png" style="top: 660px; left: 137px" onclick="visInfo('12')">
+            <div id="div12" class="infoOnMap" style="margin-top: 430px; margin-left: 137px">
+                <div class="infoPop">
+                    Steel Arena
+                    <div class="closePop" onclick="closeInfo('12')">X</div>
+                </div>
+                <div class="mainPop">
+                    <img src="img/buildings/12/1.jpg" style="max-width: 290px"> 
+                </div>
+                <div class="footerPop"></div>
+            </div>
+			
+			<img class="dotOnMap" src="img/dotmap.png" style="top: 273px; left: 523px" onclick="visInfo('13')">
+            <div id="div13" class="infoOnMap" style="margin-top: 273px; margin-left: 523px">
+                <div class="infoPop">
+                    Mikluš Prison
+                    <div class="closePop" onclick="closeInfo('13')">X</div>
+                </div>
+                <div class="mainPop">
+                    <img src="img/buildings/13/1.jpg" style="max-width: 290px"> 
+                </div>
+                <div class="footerPop"></div>
+            </div>
+			
+			<img class="dotOnMap" src="img/dotmap.png" style="top: 333px; left: 643px" onclick="visInfo('14')">
+            <div id="div14" class="infoOnMap" style="margin-top: 333px; margin-left: 643px">
+                <div class="infoPop">
+                    Jakab´s Palace
+                    <div class="closePop" onclick="closeInfo('14')">X</div>
+                </div>
+                <div class="mainPop">
+                    <img src="img/buildings/14/1.jpg" style="max-width: 290px"> 
+                </div>
+                <div class="footerPop"></div>
+            </div>
+			
+			<img class="dotOnMap" src="img/dotmap.png" style="top:152px; left: 116px" onclick="visInfo('15')">
+            <div id="div15" class="infoOnMap" style="margin-top: 152px; margin-left: 116px">
+                <div class="infoPop">
+                    Watchtower
+                    <div class="closePop" onclick="closeInfo('15')">X</div>
+                </div>
+                <div class="mainPop">
+                    <img src="img/buildings/15/1.jpg" style="max-width: 290px"> 
+                </div>
+                <div class="footerPop"></div>
+            </div>
         </div>	
     </main>
     <?php include('include/footer.php'); ?>
