@@ -18,9 +18,18 @@
   padding: 20px;
   background: #fff;
   border-radius: 5px;
-  width: 30%;
+  width: 100%;
   position: relative;
   transition: all 5s ease-in-out;
+}
+
+.imgPop{
+	width:100%;
+	background-color: #6A8DC6;
+	display: inline-block;
+	overflow: hidden; 
+	margin: 0px;
+	margin-bottom: 0px !important;
 }
 
 .popup .close {
