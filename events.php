@@ -33,7 +33,7 @@
             </tr>
 			<tr>
                 <td>17.9.2015-13.3.2016</td>
-                <td><a href="http://www.visitkosice.eu/sk/podujatia/vystavy/od-ihly-po-sijaci-stroj">HOUSE OF CRAFTS - exhibition coming towards history tailors and traders of textiles in Kosice</a></td>
+                <td><a href="http://www.visitkosice.eu/sk/podujatia/vystavy/od-ihly-po-sijaci-stroj">HOUSE OF CRAFTS - exhibition coming towards history tailors and traders of textiles in Košice</a></td>
             </tr>
 			<tr>
                 <td>22.10.2015-28.2.2016</td>
@@ -41,15 +41,15 @@
             </tr>
 			<tr>
                 <td>29.10.2015-28.2.2016</td>
-                <td><a href="http://www.visitkosice.eu/sk/podujatia/vystavy/pribehy-budov-a-ich-osobnosti">Eastern Slovak Museum - exhibition mapping the past and present of four buildings Kosice</a></td>
+                <td><a href="http://www.visitkosice.eu/sk/podujatia/vystavy/pribehy-budov-a-ich-osobnosti">Eastern Slovak Museum - exhibition mapping the past and present of four buildings Košice</a></td>
             </tr>
 			<tr>
                 <td>6.1. - 31.1.2016</td>
-                <td><a href="http://www.visitkosice.eu/sk/podujatia/top-podujatia-2016/otvaraci-ceremonial-ems-2016">Main Street, Kosice - Cultural and sporting event - Opening ceremony European City of Sport Ministry of Education in 2016</a></td>
+                <td><a href="http://www.visitkosice.eu/sk/podujatia/top-podujatia-2016/otvaraci-ceremonial-ems-2016">Main Street, Košice - Cultural and sporting event - Opening ceremony European City of Sport Ministry of Education in 2016</a></td>
             </tr>
 			<tr>
                 <td>14.1.2016 - 17.2.2016</td>
-                <td><a href="http://www.visitkosice.eu/sk/podujatia/top-podujatia-2016/zimny-festival-jedla">Kosice - Culinary Festival - Winter festival food</a></td>
+                <td><a href="http://www.visitkosice.eu/sk/podujatia/top-podujatia-2016/zimny-festival-jedla">Košice - Culinary Festival - Winter festival food</a></td>
             </tr>
 			<tr>
                 <td>19.1.2016 - 13.3.2016</td>
@@ -85,7 +85,7 @@
             </tr>
 			<tr>
                 <td>11.2.2016</td>
-                <td><a href="http://www.visitkosice.eu/sk/podujatia/top-podujatia-2016/zimna-olympiada-seniorov">JAHODNA - sport event for all sports elderly seniors Winter Olympics</a></td>
+                <td><a href="http://www.visitkosice.eu/sk/podujatia/top-podujatia-2016/zimna-olympiada-seniorov">JAHODNÁ - sport event for all sports elderly seniors Winter Olympics</a></td>
             </tr>
 			<tr>
                 <td>12.2.2016,26.2.2016,18.3.2016</td>
@@ -101,7 +101,7 @@
             </tr>
             <tr>
                 <td>25.2.2016</td>
-                <td><a href="http://www.visitkosice.eu/sk/podujatia/kulinaria/ochutnavka-vin-romana-janouseka">CITADELY WINE & ART GALLERY - Wine tasting Romana Janouseka</a></td>
+                <td><a href="http://www.visitkosice.eu/sk/podujatia/kulinaria/ochutnavka-vin-romana-janouseka">CITADELY WINE & ART GALLERY - Wine tasting Romana Janoušeka</a></td>
             </tr>
             <tr>
                 <td>27.2. - 28.2.2016</td>
@@ -113,7 +113,7 @@
             </tr>
 			<tr>
                 <td>11.3.2016</td>
-                <td><a href="http://www.visitkosice.eu/sk/podujatia/sport-a-relax/sportova-osobnost-kosic">Social Pavilion - Gala Sports Personality Kosice</a></td>
+                <td><a href="http://www.visitkosice.eu/sk/podujatia/sport-a-relax/sportova-osobnost-kosic">Social Pavilion - Gala Sports Personality Košice</a></td>
             </tr>
 			<tr>
                 <td>April - May 2016</td>
@@ -121,7 +121,7 @@
             </tr>
 			<tr>
                 <td>14.-30.4.2016</td>
-                <td><a href="http://www.visitkosice.eu/sk/podujatia/top-podujatia-2016/kosicka-hudobna-jar">State Philharmonic - Kosice Music Spring</a></td>
+                <td><a href="http://www.visitkosice.eu/sk/podujatia/top-podujatia-2016/kosicka-hudobna-jar">State Philharmonic - Košice Music Spring</a></td>
             </tr>
 			<tr>
                 <td>16. - 17.4.2016</td>
@@ -209,7 +209,7 @@
             </tr>
 			<tr>
                 <td>September 2016</td>
-                <td><a href="http://www.visitkosice.eu/sk/podujatia/top-podujatia-2016/kosice-pivofest">CAMELOT, Košice - Košice Beer Festival</a></td>
+                <td>?a href="http://www.visitkosice.eu/sk/podujatia/top-podujatia-2016/kosice-pivofest">CAMELOT, Košice - Košice Beer Festival</a></td>
             </tr>
 			<tr>
                 <td>September 2016</td>
@@ -229,7 +229,7 @@
             </tr>
 			 <tr>
                 <td>9. - 11.9.2016</td>
-                <td><a href="http://www.sams-asn.sk/index.php?mm=40&rok=2016&g1=1&g2=&g3=&g4=493">42. Rally Kosice</a></td>
+                <td><a href="http://www.sams-asn.sk/index.php?mm=40&rok=2016&g1=1&g2=&g3=&g4=493">42. Rally Košice</a></td>
             </tr>	
             <tr>
                 <td>16. - 18.9.2016</td>
