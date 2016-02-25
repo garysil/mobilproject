@@ -18,35 +18,32 @@
     
     <?php include('include/header.php'); ?>
     <main class="mainpart">
-        <div>
-                    Welcome to our site about Košice. As the second biggest city in Slovakia, 
-                    it has a population of a quarter million people. In many ways it is the centre 
-                    of Eastern Slovakia. It has a very rich cultural life, it hosts many cultural 
-                    events. In 2013 the city was a European Capital of Culture. Košice has also an 
-                    active sports side. It owns a very successful handball and hockey team. 
-        </div>
-        <img id="kosicemain" src="img/kosicemainstreet.jpg" alt="Kosice Main Street" width="100%">
-        <div>
-                    Why did we create this page? As we didn´t find an interesting website about our 
+        <div class="infoIndex">
+                    <b>Welcome to our site about Košice.</b> Why did we create this page? 
+                    As we didn´t find an interesting website about our 
                     city, we decided to create one ourselves. We wanted people from the whole world 
                     to be acquainted with Košice. We want to inform people, who don´t know where to 
                     go through the Holidays, to consider visiting our city. We also a provide a playful 
                     quiz game about the history and points of interests of the city. Besides that we 
                     handpicked the pictures that give you an insight to the city´s life and style. 
-                    We hope you´ll like our take on Košice and you will visit it in the future.
-        </div>
+                    We hope you´ll like our take on Košice and you will visit it in the future. 
+        </div class="infoIndex">
+        <img id="kosicemain" src="img/mainstreet3.jpg" alt="Kosice Main Street" width="100%">
+        
         <h1>Info</h1>
-        <div>
+        <div class="infoIndex">
             Being the economic and cultural centre of eastern Slovakia, Košice 
             is the seat of the Košice Region and Košice Self-governing Region, 
             the Slovak Constitutional Court, three universities, various dioceses, 
             and many museums, galleries, and theatres. Košice is an important 
             industrial centre of Slovakia, and the U.S. Steel Košice steel mill 
             is the largest employer in the city. The town has extensive railway 
-            connections and an international airport.
+            connections and an international airport. In 2013 the city was a European 
+            Capital of Culture. Košice has also an active sports side. It owns a 
+            very successful handball and hockey team.
         </div>
         <img id="kosiceerb" src="img/kosice erb.jpg" alt="Kosice Erb">
-        <div>
+        <div class="infoIndex">
             The city has a well-preserved historical 
             centre, which is the largest among Slovak towns. 
             There are many heritage protected buildings in Gothic,
@@ -82,7 +79,7 @@
             </tr>
         </table>
         <h1>Transport</h1>
-        <div>Public Transport in Košice is managed by 
+        <div class="infoIndex">Public Transport in Košice is managed by 
             Dopravný podnik mesta Košice (literally the Public Transport 
             Company of the city of Košice). You can check it
             out <a id="dpmklink" href="http://www.dpmk.sk">here.</a>
