@@ -78,7 +78,7 @@ var x =document.getElementById("true10")
 
 
 
-var percentage =Math.round(100*counter/10)
+var percentage =Math.round(100*counter/10);
 
 
 document.getElementById("results").innerHTML = "Right answers: "+counter+ "</br>Success in percentages: "+percentage+"%";
@@ -121,7 +121,7 @@ document.getElementById("results").innerHTML = "Right answers: "+counter+ "</br>
     <div class="radioChoice"><input type="radio" name="otazka3" value="9"> 2010<br></div>
     <div class="radioChoice"><input type="radio" name="otazka3" value="10"> 2015<br></div>
     <div class="radioChoice"><input type="radio" name="otazka3" value="11"> 2007<br> </div>
-    <div class="radioChoice"><input type="radio" name="otazka4" value="12"id="true3"> 2013</div>
+    <div class="radioChoice"><input type="radio" name="otazka3" value="12"id="true3"> 2013</div>
    <br><a href="#" class="article">Next question</a>
 </div>
 
