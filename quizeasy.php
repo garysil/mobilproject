@@ -176,7 +176,7 @@ document.getElementById("results").innerHTML = "Right answers: "+counter+ "</br>
 
 <div name="9" id="9" style="display: none;" class="show-hide">
   
-   <p>9.Question</p><p>What is the currency used in Košice?</p>
+   <p>9.Question</p><p>What is the currency used in Ko&#353;ice?</p>
     <div class="radioChoice"><input type="radio" name="otazka9" value="33" > dollar<br></div>
     <div class="radioChoice"><input type="radio" name="otazka9" value="34"id="true9"> euro<br></div>
     <div class="radioChoice"><input type="radio" name="otazka9" value="35"> rubel<br> </div>

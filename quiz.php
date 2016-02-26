@@ -92,7 +92,7 @@ alert("Spravnych odpovedi bolo "+counter + "  __percentualna uspesnost"+percenta
 <body>
     <?php include('include/header.php'); ?>
     <main class="mainpart">
-		<div id="quizinfo">Here you can test your knowledge about Kosice.</br>We have 2 difficulties to choose from.</div>
+		<div id="quizinfo">Here you can test your knowledge about Ko&#353;ice.</br>We have 2 difficulties to choose from.</div>
 		<div class="quizStart">
 			<a href="quizeasy.php" class="choicebutton">Easy</a>
 			<a href="quizhard.php" class="choicebutton">Hard</a>
