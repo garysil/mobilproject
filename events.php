@@ -33,35 +33,35 @@
             </tr>
 			<tr>
                 <td>17.9.2015-13.3.2016</td>
-                <td><a href="http://www.visitkosice.eu/sk/podujatia/vystavy/od-ihly-po-sijaci-stroj">HOUSE OF CRAFTS - exhibition coming towards history tailors and traders of textiles in Ko≈°ice</a></td>
+                <td><a href="http://www.visitkosice.eu/sk/podujatia/vystavy/od-ihly-po-sijaci-stroj">HOUSE OF CRAFTS - exhibition coming towards history tailors and traders of textiles in Koöice</a></td>
             </tr>
 			<tr>
                 <td>22.10.2015-28.2.2016</td>
-                <td><a href="http://www.visitkosice.eu/sk/podujatia/vystavy/retrospektiva-1968--2015">Eastern Slovak Museum - Exhibition of paintings, tapestries, drawings and designs Catherine Tekeƒæov√° Bla≈æov√°</a></td>
+                <td><a href="http://www.visitkosice.eu/sk/podujatia/vystavy/retrospektiva-1968--2015">Eastern Slovak Museum - Exhibition of paintings, tapestries, drawings and designs Catherine Tekeæov· Blaûov·</a></td>
             </tr>
 			<tr>
                 <td>29.10.2015-28.2.2016</td>
-                <td><a href="http://www.visitkosice.eu/sk/podujatia/vystavy/pribehy-budov-a-ich-osobnosti">Eastern Slovak Museum - exhibition mapping the past and present of four buildings Ko≈°ice</a></td>
+                <td><a href="http://www.visitkosice.eu/sk/podujatia/vystavy/pribehy-budov-a-ich-osobnosti">Eastern Slovak Museum - exhibition mapping the past and present of four buildings Koöice</a></td>
             </tr>
 			<tr>
                 <td>6.1. - 31.1.2016</td>
-                <td><a href="http://www.visitkosice.eu/sk/podujatia/top-podujatia-2016/otvaraci-ceremonial-ems-2016">Main Street, Ko≈°ice - Cultural and sporting event - Opening ceremony European City of Sport Ministry of Education in 2016</a></td>
+                <td><a href="http://www.visitkosice.eu/sk/podujatia/top-podujatia-2016/otvaraci-ceremonial-ems-2016">Main Street, Koöice - Cultural and sporting event - Opening ceremony European City of Sport Ministry of Education in 2016</a></td>
             </tr>
 			<tr>
                 <td>14.1.2016 - 17.2.2016</td>
-                <td><a href="http://www.visitkosice.eu/sk/podujatia/top-podujatia-2016/zimny-festival-jedla">Ko≈°ice - Culinary Festival - Winter festival food</a></td>
+                <td><a href="http://www.visitkosice.eu/sk/podujatia/top-podujatia-2016/zimny-festival-jedla">Koöice - Culinary Festival - Winter festival food</a></td>
             </tr>
 			<tr>
                 <td>19.1.2016 - 13.3.2016</td>
-                <td><a href="http://www.visitkosice.eu/sk/podujatia/vystavy/domov--sladky-domov">Vojtech L√∂ffler Museum - Exhibition Home sweet home</a></td>
+                <td><a href="http://www.visitkosice.eu/sk/podujatia/vystavy/domov--sladky-domov">Vojtech Lˆffler Museum - Exhibition Home sweet home</a></td>
             </tr>
 			            <tr>
                 <td>21.1.2016 - 21.3.2016</td>
-                <td><a href="http://www.visitkosice.eu/sk/podujatia/vystavy/dali--zhmotnenie-surrealneho">Eastern Slovak Museum - exhibition Dal√≠ - Materialization surreal</a></td>
+                <td><a href="http://www.visitkosice.eu/sk/podujatia/vystavy/dali--zhmotnenie-surrealneho">Eastern Slovak Museum - exhibition Dali - Materialization surreal</a></td>
             </tr>
             <tr>
                 <td>27.1.2016 - 28.1.2016</td>
-                <td><a href="http://www.visitkosice.eu/sk/podujatia/vystavy/farebny-svet-variacii">Vojtech L√∂ffler Museum - Exhibition of World Color Variations</a></td>
+                <td><a href="http://www.visitkosice.eu/sk/podujatia/vystavy/farebny-svet-variacii">Vojtech Lˆffler Museum - Exhibition of World Color Variations</a></td>
             </tr>
             <tr>
                 <td>29.1.2016 - 21.5.2016</td>
@@ -85,7 +85,7 @@
             </tr>
 			<tr>
                 <td>11.2.2016</td>
-                <td><a href="http://www.visitkosice.eu/sk/podujatia/top-podujatia-2016/zimna-olympiada-seniorov">JAHODN√Å - sport event for all sports elderly seniors Winter Olympics</a></td>
+                <td><a href="http://www.visitkosice.eu/sk/podujatia/top-podujatia-2016/zimna-olympiada-seniorov">JAHODN¡ - sport event for all sports elderly seniors Winter Olympics</a></td>
             </tr>
 			<tr>
                 <td>12.2.2016,26.2.2016,18.3.2016</td>
@@ -97,11 +97,11 @@
             </tr>
 			<tr>
                 <td>22.2.2016 - 23.3.2016</td>
-                <td><a href="http://www.visitkosice.eu/sk/podujatia/vystavy/60-vyrocie-zalozenia-sujv">Exhibition of the 60th anniversary of S√öJV</a></td>
+                <td><a href="http://www.visitkosice.eu/sk/podujatia/vystavy/60-vyrocie-zalozenia-sujv">Exhibition of the 60th anniversary of S⁄JV</a></td>
             </tr>
             <tr>
                 <td>25.2.2016</td>
-                <td><a href="http://www.visitkosice.eu/sk/podujatia/kulinaria/ochutnavka-vin-romana-janouseka">CITADELY WINE & ART GALLERY - Wine tasting Romana Janou≈°eka</a></td>
+                <td><a href="http://www.visitkosice.eu/sk/podujatia/kulinaria/ochutnavka-vin-romana-janouseka">CITADELY WINE & ART GALLERY - Wine tasting Romana Janouöeka</a></td>
             </tr>
             <tr>
                 <td>27.2. - 28.2.2016</td>
@@ -113,7 +113,7 @@
             </tr>
 			<tr>
                 <td>11.3.2016</td>
-                <td><a href="http://www.visitkosice.eu/sk/podujatia/sport-a-relax/sportova-osobnost-kosic">Social Pavilion - Gala Sports Personality Ko≈°ice</a></td>
+                <td><a href="http://www.visitkosice.eu/sk/podujatia/sport-a-relax/sportova-osobnost-kosic">Social Pavilion - Gala Sports Personality Koöice</a></td>
             </tr>
 			<tr>
                 <td>April - May 2016</td>
@@ -121,27 +121,27 @@
             </tr>
 			<tr>
                 <td>14.-30.4.2016</td>
-                <td><a href="http://www.visitkosice.eu/sk/podujatia/top-podujatia-2016/kosicka-hudobna-jar">State Philharmonic - Ko≈°ice Music Spring</a></td>
+                <td><a href="http://www.visitkosice.eu/sk/podujatia/top-podujatia-2016/kosicka-hudobna-jar">State Philharmonic - Koöice Music Spring</a></td>
             </tr>
 			<tr>
                 <td>16. - 17.4.2016</td>
-                <td><a href="http://www.visitkosice.eu/sk/podujatia/top-podujatia-2016/rusnoparada">Family Event Ru≈°≈àopar√°da</a></td>
+                <td><a href="http://www.visitkosice.eu/sk/podujatia/top-podujatia-2016/rusnoparada">Family Event Ruönopar·da</a></td>
             </tr>
 			<tr>
                 <td>23.4.2016</td>
-                <td><a href="http://www.visitkosice.eu/sk/podujatia/top-podujatia-2016/kosice-runway-run">Airport Ko≈°ice - Ko≈°ice running event Runway Run</a></td>
+                <td><a href="http://www.visitkosice.eu/sk/podujatia/top-podujatia-2016/kosice-runway-run">Airport Koöice - Koöice running event Runway Run</a></td>
             </tr>
 			<tr>
                 <td>29.4. - 8.5.2016</td>
-                <td><a href="http://www.visitkosice.eu/sk/podujatia/top-podujatia-2016/oslavy-dna-mesta-kosice">Festival Celebration of Day of Ko≈°ice</a></td>
+                <td><a href="http://www.visitkosice.eu/sk/podujatia/top-podujatia-2016/oslavy-dna-mesta-kosice">Festival Celebration of Day of Koöice</a></td>
             </tr>
 			            <tr>
                 <td>30.4.2016</td>
-                <td><a href="http://www.visitkosice.eu/sk/podujatia/top-podujatia-2016/tvrdak">Hurdle race Tvrƒè√°k</a></td>
+                <td><a href="http://www.visitkosice.eu/sk/podujatia/top-podujatia-2016/tvrdak">Hurdle race TvrÔ·k</a></td>
             </tr>
             <tr>
                 <td>12.5.2016</td>
-                <td><a href="http://www.visitkosice.eu/sk/podujatia/top-podujatia-2016/kosicka-noc-muzei-a-galerii">Ko≈°ice night of museums and galleries</a></td>
+                <td><a href="http://www.visitkosice.eu/sk/podujatia/top-podujatia-2016/kosicka-noc-muzei-a-galerii">Koöice night of museums and galleries</a></td>
             </tr>
 			<tr>
                 <td>28.5.2016</td>
@@ -161,7 +161,7 @@
             </tr>
 			<tr>
                 <td>10. - 12.6.2016</td>
-                <td><a href="http://www.visitkosice.eu/sk/podujatia/top-podujatia-2016/kosice-gurman-fest">City Park - Festival food Ko≈°ice Gourmet Fest</a></td>
+                <td><a href="http://www.visitkosice.eu/sk/podujatia/top-podujatia-2016/kosice-gurman-fest">City Park - Festival food Koöice Gourmet Fest</a></td>
             </tr>
 			<tr>
                 <td>16. - 18.6.2016</td>
@@ -201,15 +201,15 @@
             </tr>
 			<tr>
                 <td>28.8. - 3.9.2016</td>
-                <td><a href="http://www.visitkosice.eu/sk/podujatia/top-podujatia-2016/jazzovy-festival">M CLUB, Ko≈°ice - Jazz Festival Jazz Festival</a></td>
+                <td><a href="http://www.visitkosice.eu/sk/podujatia/top-podujatia-2016/jazzovy-festival">M CLUB, Koöice - Jazz Festival Jazz Festival</a></td>
             </tr>
 			<tr>
                 <td>September 2016</td>
-                <td><a href="http://www.visitkosice.eu/sk/podujatia/top-podujatia-2016/festival-divadiel-strednej-europy">Ko≈°ice State Theatre - Theatre Festival of Central European Theatre Festival</a></td>
+                <td><a href="http://www.visitkosice.eu/sk/podujatia/top-podujatia-2016/festival-divadiel-strednej-europy">Koöice State Theatre - Theatre Festival of Central European Theatre Festival</a></td>
             </tr>
 			<tr>
                 <td>September 2016</td>
-                <td>?a href="http://www.visitkosice.eu/sk/podujatia/top-podujatia-2016/kosice-pivofest">CAMELOT, Ko≈°ice - Ko≈°ice Beer Festival</a></td>
+                <td><a href="http://www.visitkosice.eu/sk/podujatia/top-podujatia-2016/kosice-pivofest">CAMELOT, Koöice - Koöice Beer Festival</a></td>
             </tr>
 			<tr>
                 <td>September 2016</td>
@@ -225,11 +225,11 @@
             </tr>
             <tr>
                 <td>8.-12.9.2016</td>
-                <td><a href="http://www.visitkosice.eu/sk/podujatia/top-podujatia-2016/kosicke-slavnosti-vina">Lower Gate, area ety - Ko≈°ice Wine Festival Wine Festival</a></td>
+                <td><a href="http://www.visitkosice.eu/sk/podujatia/top-podujatia-2016/kosicke-slavnosti-vina">Lower Gate, area ety - Koöice Wine Festival Wine Festival</a></td>
             </tr>
 			 <tr>
                 <td>9. - 11.9.2016</td>
-                <td><a href="http://www.sams-asn.sk/index.php?mm=40&rok=2016&g1=1&g2=&g3=&g4=493">42. Rally Ko≈°ice</a></td>
+                <td><a href="http://www.sams-asn.sk/index.php?mm=40&rok=2016&g1=1&g2=&g3=&g4=493">42. Rally Koöice</a></td>
             </tr>	
             <tr>
                 <td>16. - 18.9.2016</td>
@@ -257,7 +257,7 @@
             </tr>
 			<tr>
                 <td>6. - 20.11.2016</td>
-                <td><a href="http://www.visitkosice.eu/sk/podujatia/top-podujatia-2016/festival-sakralneho-umenia">Sakr√°lny festival Festival sakr√°lneho umenia</a></td>
+                <td><a href="http://www.visitkosice.eu/sk/podujatia/top-podujatia-2016/festival-sakralneho-umenia">Sakr·lny festival Festival sakr·lneho umenia</a></td>
             </tr>
 			<tr>
                 <td>11. - 17.11.2016</td>
@@ -265,7 +265,7 @@
             </tr>
 			<tr>
                 <td>December 2016</td>
-                <td><a href="http://www.visitkosice.eu/sk/podujatia/top-podujatia-2016/kosicke-rozpravkove-vianoce">Christmas markets and accompanying program Ko≈°ice fabulous Christmas</a></td>
+                <td><a href="http://www.visitkosice.eu/sk/podujatia/top-podujatia-2016/kosicke-rozpravkove-vianoce">Christmas markets and accompanying program Koöice fabulous Christmas</a></td>
             </tr>
             <tr>
                 <td>31.12.2016</td>

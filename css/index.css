@@ -118,6 +118,11 @@ table,tr,td{
 
 td{
     padding: 7px;
+    
+}
+
+td a{
+    text-decoration: none;
 }
 table tr:first-child{
     font-weight: 700;
