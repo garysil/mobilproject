@@ -5,7 +5,7 @@
 <html>
 
 <head>
-    <meta charset=utf-8">
+    <meta http-equiv="Content-Type" content="text/html;charset=windows-1250"/>
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <title>Kosice</title>
     <meta name="viewport" content="width = device-width, initial-scale = 1">
@@ -87,32 +87,16 @@ alert("Spravnych odpovedi bolo "+counter + "  __percentualna uspesnost"+percenta
 
 </script>
 
-
-<style>
-.button {
-   background-color: white;
-    color: black;
-    border: 2px solid #e7e7e7;
-    padding: 15px 32px;
-    text-align: center;
-    text-decoration: none;
-    display: inline-block;
-    font-size: 16px;
-    margin: 4px 2px;
-    cursor: pointer;
-}
-</style>
 </head>
 
 <body>
     <?php include('include/header.php'); ?>
     <main class="mainpart">
-      
-
-
-<br>
-<a href="quizeasy.php" class="button">Easy</a><a href="quizhard.php" class="button">Hard</a>
-
+		<div id="quizinfo">Here you can test your knowledge about Kosice.</br>We have 2 difficulties to choose from.</div>
+		<div class="quizStart">
+			<a href="quizeasy.php" class="choicebutton">Easy</a>
+			<a href="quizhard.php" class="choicebutton">Hard</a>
+		</div>
     </main>
     <?php include('include/footer.php'); ?>
 </body>

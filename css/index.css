@@ -231,3 +231,86 @@ table tr:first-child{
 	opacity: 0.5;
 	cursor: pointer;
 }
+
+#quizinfo{
+    font-size: 32px;
+    color: #333;
+    font-family: 'Raleway', sans-serif;
+    text-align: center;
+	margin-top: 50px;
+    margin-bottom: 20px;
+    text-indent: 0px;
+}
+
+.choicebutton {
+	background-color: #C6796A;
+	width: 300px;
+	height: 300px;
+    color: white;
+	font-size: 48px;
+	font-family: 'Raleway', sans-serif;	
+    border: 2px solid #e7e7e7;
+    text-align: center;
+	line-height: 300px;
+    text-decoration: none;
+    display: inline-block;
+    margin: 5px 0px 5px 0px;
+    cursor: pointer;
+}
+
+.choicebutton:nth-child(1) {
+    margin-right: 15px;
+	background-color: #6AC679;
+}
+
+.choicebutton:hover{
+	background-color: #6A8DC6;
+}
+
+.quizStart{
+	margin: auto;
+	width: 620px;
+	margin-bottom: 260px;
+}
+
+.show-hide{
+	font-family: 'Raleway', sans-serif;	
+	
+	font-size: 32px;
+	width: 100%;
+}
+
+.show-hide p{
+	font-family: 'Raleway', sans-serif;	
+	text-align: center;
+	font-size: 32px;
+	width: 100%;
+	
+}
+
+.article{
+	width: 100%;
+	padding: 10px;
+	background-color: #6A8DC6;
+	color: white;
+	text-align: right;
+	margin-left: 700px;
+	text-decoration: none;
+}
+
+input[type="radio"]{
+    font-size: 36px;
+	cursor: pointer;
+}
+
+.radioChoice{
+	padding: auto;
+	margin-left: 50px;
+}
+
+#closeQuiz{
+	font-family: 'Raleway', sans-serif;	
+	text-align: center;
+	margin-left: 326px;
+	font-size: 32px;
+}
